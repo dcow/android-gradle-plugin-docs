@@ -7,7 +7,10 @@ Documentation for the Android Gradle plugin. I generated them from the
 
 ## OSX
 
-    $ cd ub-tools-idea133
+    $ cd path/to/sdk-source 
+
+(e.g. `studio-master-dev` or `gradle_0.14.2`)
+
     $ repo sync
     $ cd tools
     $ chmod u+w gradle.properties
