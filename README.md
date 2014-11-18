@@ -1,5 +1,7 @@
 # Android Gradle Plugin Docs
 
+https://dcow.github.io/android-gradle-plugin-docs
+
 Documentation for the Android Gradle plugin. I generated them from the
 [android sdk project sources](http://tools.android.com/build).
 
@@ -15,3 +17,5 @@ Documentation for the Android Gradle plugin. I generated them from the
 Docs live in:
 
     out/build/base/gradle/build/docs/groovydoc
+
+You can [view them on gh-pages](https://dcow.github.io/android-gradle-plugin-docs).
