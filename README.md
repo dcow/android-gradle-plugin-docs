@@ -7,7 +7,7 @@ Documentation for the Android Gradle plugin. I generated them from the
 
 ## OSX
 
-    $ cd path/to/sdk-source 
+    $ cd path/to/sdk-repo
 
 (e.g. `studio-master-dev` or `gradle_0.14.2`)
 
