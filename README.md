@@ -10,9 +10,9 @@ Documentation for the Android Gradle plugin. I generated them from the
     $ cd ub-tools-idea133
     $ repo sync
     $ cd tools
-    $ chmod u+x gradle.properties
+    $ chmod u+w gradle.properties
     $ echo "org.gradle.java.home=$(/usr/libexec/java_home -v 1.6)" >> gradle.properties
-    $ ./gradlew base:gradle:gradleDoc
+    $ ./gradlew base:gradle:groovyDoc
 
 Docs live in:
 
